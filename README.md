@@ -8,9 +8,7 @@
 * Added a grid system to track the snake's movement in the game and food object random placement
 * Made a few changes to the game by allowing to snake to move through the walls without dying 
 
-**Libraries**: math, pygame 
-
-[Snake Game Code](https://pym.dev/p/36vwz/)
+**Libraries**: `math`, `pygame `
 
 ### Chess Game (Game Development)
 * Simulated and added the AI Stockfish chess engine library to determine optimal moves and challenge players with varying difficulty levels
@@ -18,7 +16,7 @@
 * Used classes, lists, objects, data structures and file manipulations to simulate the game pieces, chess rules, score system and the chess board
 * Game includes a game move tracker which records every move made by the player 
 
-**Libraries**: pygame, sys, random, os, stockfish
+**Libraries**: `pygame`, `sys`, `random`, `os`, `stockfish`
 
 ### Tic-Tac-Toe Game (Game Development)
 
